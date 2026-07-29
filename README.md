@@ -121,6 +121,6 @@ After applying all fixes:
 ---
 
 # Screenshot
-results.png
+![Final Result](results.png)
 
 
